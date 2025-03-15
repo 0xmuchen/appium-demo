@@ -92,4 +92,3 @@ npm run run-functional-autotests
 - [Appium](https://github.com/appium/appium) 
 - [Pixelmatch](https://github.com/mapbox/pixelmatch) 
 - [Allure Report](https://webdriver.io/docs/allure-reporter/)
-```
